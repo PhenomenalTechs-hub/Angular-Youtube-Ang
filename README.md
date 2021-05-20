@@ -1,6 +1,7 @@
 # YoutubeAng
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 12.0.0.
+The Build of this project is in dist/youtube-ang folder
 
 ## Development server
 
